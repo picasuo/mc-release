@@ -3,7 +3,7 @@
 
 ### 支持平台
 目前提供了适用于 **Windows**、**macOS** 的安装包，支持以下架构：
-- **macOS**：x64(Apple芯片)、arm64(Intel芯片)
+- **macOS**：x64(Intel芯片)、arm64(Apple芯片)
 - **Windows**：x64
 
 ### 下载与安装
